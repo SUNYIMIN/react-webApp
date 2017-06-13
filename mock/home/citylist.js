@@ -1,0 +1,40 @@
+module.exports=[
+    {
+       cityNme:"北京"
+    },
+    {
+       cityNme:"上海"
+    },
+    {
+       cityNme:"杭州"
+    },
+    {
+       cityNme:"广州"
+    },
+    {
+       cityNme:"苏州"
+    },
+    {
+       cityNme:"深圳"
+    },
+    {
+       cityNme:"南京"
+    },
+    {
+       cityNme:"天津"
+    },
+    {
+       cityNme:"重庆"
+    },
+    {
+       cityNme:"厦门"
+    },
+    {
+       cityNme:"武汉"
+    },
+    {
+       cityNme:"西安"
+    },
+    
+
+]
