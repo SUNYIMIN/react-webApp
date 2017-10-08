@@ -17,6 +17,7 @@ class CityList extends React.Component {
             data:[]
         }
     }
+    
     render() {
         return (
             <div>
