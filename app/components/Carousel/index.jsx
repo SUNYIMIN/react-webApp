@@ -14,7 +14,7 @@ class Carousel extends React.Component {
     }
     render() {
         var opt = {
-            auto:2000,
+            auto:3000,
             callback:(index) => {
                this.setState({
                    index:index

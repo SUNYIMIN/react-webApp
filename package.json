@@ -50,6 +50,7 @@
     "react-swipe": "^5.0.8",
     "redux": "^3.5.2",
     "swipe-js-iso": "^2.0.3",
-    "whatwg-fetch": "^1.0.0"
+    "whatwg-fetch": "^1.0.0",
+    "yarn": "^1.12.1"
   }
 }
